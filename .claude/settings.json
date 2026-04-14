@@ -1,0 +1,8 @@
+{
+  "hooks": {
+    "postTool": {
+      "Edit": "bash .claude/auto-commit-push.sh",
+      "Write": "bash .claude/auto-commit-push.sh"
+    }
+  }
+}
